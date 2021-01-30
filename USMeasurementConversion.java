@@ -253,7 +253,7 @@ public class USMeasurementConversion {
         return a / 1760;
     }
 
-    // Converting from Yards to...
+    // Converting from Miles to...
     public double convertMilesToInches(double a) {
         return a * 63360;
     }
